@@ -1,0 +1,49 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+#general
+{
+    margin: auto;
+    margin-top: 15px;
+    width: 600px;
+    height: 600px;
+    background-color: aquamarine;
+    border-radius: 200px;
+
+}
+#caja1 {
+    margin: 15px auto;
+    border-radius: 300px;
+    width: 250px; 
+    height: 150px;
+    background-color: rgb(255, 230, 0);
+    float: left; 
+}
+
+#caja2 {
+    margin: 15px auto;
+    border-radius: 300px;
+    width: 250px; 
+    height: 150px;
+    background-color: rgb(0, 195, 255);
+    float: right; 
+}
+
+#caja3 {
+    margin: 15px auto;
+    border-radius: 10px;
+    width: 100px;
+    height: 50px;
+    background-color: rgb(255, 65, 65);
+    
+}
+
+#caja4 {
+    margin: 15px auto;
+    border-radius: 10px;
+    width: 250px;
+    height: 200px;
+    background-color: rgb(255, 0, 255);
+
+}
